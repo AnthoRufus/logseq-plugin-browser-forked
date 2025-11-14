@@ -1,6 +1,12 @@
 # logseq-plugin-browser
 > A browser plugin for logseq
 
+Fork add:
+
+  Reload button
+  Able to move the window
+  Able to change size
+
 [![latest release version](https://img.shields.io/github/v/release/haydenull/logseq-plugin-browser)](https://github.com/haydenull/logseq-plugin-browser/releases)
 [![License](https://img.shields.io/github/license/haydenull/logseq-plugin-browser?color=blue)](https://github.com/haydenull/logseq-plugin-markdown-table/blob/main/LICENSE)
 
